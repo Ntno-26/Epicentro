@@ -21,16 +21,16 @@ Purchase:
   
     <meta name="MobileOptimized" content="320" />
     <!--start theme style -->
-    <link rel="stylesheet" type="text/css" href="css/animate.css">
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
-    <link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
-    <link rel="stylesheet" type="text/css" href="css/owl.theme.default.css">
-    <link rel="stylesheet" type="text/css" href="css/flaticon.css">
-    <link rel="stylesheet" type="text/css" href="css/fonts.css" />
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-	<link rel="stylesheet" type="text/css" href="css/responsive.css" />
+    <link rel="stylesheet" type="text/css" href="public/css/animate.css">
+    <link rel="stylesheet" type="text/css" href="public/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="publiccss/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="public/css/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="publi/css/magnific-popup.css">
+    <link rel="stylesheet" type="text/css" href="public/css/owl.theme.default.css">
+    <link rel="stylesheet" type="text/css" href="public/css/flaticon.css">
+    <link rel="stylesheet" type="text/css" href="public/css/fonts.css" />
+    <link rel="stylesheet" type="text/css" href="public/css/style.css">
+	<link rel="stylesheet" type="text/css" href="public/css/responsive.css" />
     <!-- favicon link-->
     <link rel="icon" type="image/icon" href="imagenes_EPICentro/favicon.png" />
 </head>
